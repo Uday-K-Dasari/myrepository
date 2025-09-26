@@ -1,2 +1,6 @@
 
 nani
+
+new
+
+using git diff command to see the newly edited changes
